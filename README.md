@@ -1,7 +1,7 @@
 ### Ola, eu sou o Henrique Gheno 👋
 
 - 🔭 Hoje trabalho com a linguagem pascal
-- 🌱 Estudando back-end e front-end
+- 🌱 Estudando segurança da informação/hacking
 - 📫 Contato: henrique2004gheno@gmail.com
 - 😄 Ele/dele
 
