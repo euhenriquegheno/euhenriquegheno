@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com a linguagem pascal, html e css
 - 🌱 Estudando segurança da informação/hacking
 - 📫 Contato: henrique2004gheno@gmail.com
-- 😄 Ele/dele
 
 - Projetos
 https://www.buzoli.com.br/
