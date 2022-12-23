@@ -1,8 +1,9 @@
 ### Ola, eu sou o Henrique Gheno 👋
 
-- 🔭 Hoje trabalho com a linguagem pascal, html e css
-- 🌱 Estudando segurança da informação/hacking
+- 🔭 Hoje trabalho com as linguagens e ferramentas pascal, html, boostrap, javascript e css
+- 🌱 Estudando desenvolvimento web
 - 📫 Contato: henrique2004gheno@gmail.com
+- Whatsapp: https://api.whatsapp.com/send?phone=5551997809848&text=Ol%C3%A1%20Henrique%20Gheno
 
 - Projetos
 - <a href="https://www.buzoli.com.br/">Site Buzoli</a>
