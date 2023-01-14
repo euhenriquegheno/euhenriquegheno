@@ -13,11 +13,7 @@
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 
 
-<br>
-<br>
-<div style="text-align=center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=euhenriquegheno&show_icons=true">
-    </div>
+
 
   
   
