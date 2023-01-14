@@ -16,7 +16,7 @@
 <br>
 <br>
 <div style="text-align=center;">
-  <a>https://github-readme-stats.vercel.app/api?username=euhenriquegheno&show_icons=true</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=euhenriquegheno&show_icons=true">
     </div>
 
   
