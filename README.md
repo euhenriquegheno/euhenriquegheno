@@ -12,6 +12,7 @@
 - <a href="https://www.clubereidobailao.com.br/">Site Rei do Bailão</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 
+<img src="https://gpvc.arturio.dev/euhenriquegheno">
 
 
 
