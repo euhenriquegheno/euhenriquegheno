@@ -13,6 +13,7 @@
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 
 <img src="https://gpvc.arturio.dev/euhenriquegheno">
+<img src="https://github-profile-trophy.vercel.app/?username=euhenriquegheno">
 
 
 
