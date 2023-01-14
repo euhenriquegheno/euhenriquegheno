@@ -13,7 +13,10 @@
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 
 <img src="https://gpvc.arturio.dev/euhenriquegheno">
+
+<div style="text-align: center;">
 <img src="https://github-profile-trophy.vercel.app/?username=euhenriquegheno&theme=onedark">
+  </div>
 
 
 
