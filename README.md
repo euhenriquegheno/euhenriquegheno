@@ -1,5 +1,5 @@
 <div class="inicio">
-  <h1>### Ola, eu sou o Henrique Gheno 👋</h1>
+  <h1>Ola, eu sou o Henrique Gheno 👋</h1>
 
 - 🔭 Hoje trabalho com as linguagens e ferramentas pascal, html, boostrap, javascript e css
 - 🌱 Estudando desenvolvimento web
