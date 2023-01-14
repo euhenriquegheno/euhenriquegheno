@@ -14,8 +14,9 @@
 
 <img src="https://gpvc.arturio.dev/euhenriquegheno">
 
-<div style="text-align: center;">
-<img src="https://github-profile-trophy.vercel.app/?username=euhenriquegheno&theme=onedark">
+<div style="text-align:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=euhenriquegheno&theme=onedark">
+  <img src="https://streak-stats.demolab.com/?user=euhenriquegheno&theme=dark">
   </div>
 
 
