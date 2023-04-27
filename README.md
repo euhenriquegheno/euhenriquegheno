@@ -14,7 +14,8 @@
 - <a href="https://www.buzoli.com.br/">Site Buzoli</a>
 - <a href="https://www.clubereidobailao.com.br/">Site Rei do Bailão</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
-</div>
+- <a href="https://cursos.alura.com.br/vitrinedev/henrique2004gheno">Minha Vitrine Alura</a>
+<div>
 
 
 <div>
