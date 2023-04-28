@@ -59,7 +59,8 @@
   <img src="https://gpvc.arturio.dev/euhenriquegheno">
   <div class="estatisticas" align="center">
     <br>
-    <img src="https://streak-stats.demolab.com/?user=euhenriquegheno&theme=dark">
+    <img src="https://streak-stats.demolab.com/?user=euhenriquegheno&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=euhenriquegheno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
     <br>
   </div>
 </div>
