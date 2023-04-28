@@ -9,7 +9,7 @@
     <ul>
       <li>
         <p> 
-           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;PASCAL
+           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;PASCAL
         </p>
       </li>
       <li>
