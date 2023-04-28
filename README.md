@@ -1,30 +1,34 @@
 <div class="inicio">
   <h1>Ola, eu sou o Henrique Gheno 👋</h1>
   
-  <ul>
-    <li>
-      <p>🔭 Hoje trabalho com as linguagens e ferramentas citadas a baixo \/</p>
-      <div style="display: inline_block;">
+  <p>🔭 Hoje trabalho com as linguagens e ferramentas citadas a baixo \/</p>
+  <div style="display: inline_block;">
+    <ul>
+      <li>
         <p> 
-          PASCAL
+           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;PASCAL
         </p>
+      </li>
+      <li>
         <p>
-          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">             JAVASCRIPT
+          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">                     JAVASCRIPT
         </p>
+      </li>
+      <li>
         <p>
           <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           HTML
         </p>
+      </li>
+      <li>
         <p>
           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           CSS
         </p>
-      </div>    
-    </li>
-    <li>
-      <p>🌱 Estudando desenvolvimento web</p>    
-    </li>
-  </ul>
+      </li>
+    </ul>  
+  </div>    
+  <p>🌱 Estudando desenvolvimento web</p>    
 </div>
 
 <div class="contatos">
