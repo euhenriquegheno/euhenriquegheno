@@ -57,7 +57,6 @@
 
 <div>
   <h2>Estatísticas</h2>
-  <img src="https://gpvc.arturio.dev/euhenriquegheno">
   <div class="estatisticas" align="center">
     <br>
     <img src="https://streak-stats.demolab.com/?user=euhenriquegheno&theme=github-dark-blue" width="495px" height="210px">
