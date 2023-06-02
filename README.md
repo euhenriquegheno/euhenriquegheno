@@ -64,7 +64,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=euhenriquegheno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="495px" height="210px">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhenriquegheno&layout=compact&langs_count=16&theme=tokyonight" width="300px" height="210px">
-    
     <br>
   </div>
 </div>
