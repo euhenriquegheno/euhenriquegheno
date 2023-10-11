@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=365abe&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=365abe&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Henrique+Gheno;Estudo+desenvolvimento+Web)](https://github.com/euhenriquegheno/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=365abe&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Henrique+Gheno;Estudo+ADS+na+Univates)](https://github.com/euhenriquegheno/)
 
 <br>
 <div class="inicio">
@@ -37,7 +37,6 @@
 <h2>Projetos</h2>
 
 - <a href="https://www.buzoli.com.br/">Buzoli</a>
-- <a href="https://www.clubereidobailao.com.br/">Rei do Bailão</a>
 - <a href="https://esi-sem-fronteiras-mexico.vercel.app/">Site com informações sobre o México</a>
 - <a href="https://minha-mochila.vercel.app/">Minha Mochila</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
