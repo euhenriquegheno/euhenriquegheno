@@ -39,6 +39,9 @@
 - <a href="https://www.buzoli.com.br/">Buzoli</a>
 - <a href="https://esi-sem-fronteiras-mexico.vercel.app/">Site com informações sobre o México</a>
 - <a href="https://minha-mochila.vercel.app/">Minha Mochila</a>
+- <a href="https://github.com/euhenriquegheno/GeradorQrCode">Gerado de QRCODE</a>
+- <a href="https://github.com/euhenriquegheno/ControleEntradaEvento">Controle de entrada para eventos(basico)</a>
+- <a href="https://github.com/euhenriquegheno/ControleDeContas">Controle de contas a receber e pagar</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 - <a href="https://cursos.alura.com.br/vitrinedev/henrique2004gheno">Minha Vitrine Alura</a>
 <div>
