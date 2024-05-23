@@ -35,7 +35,7 @@
 </div>
 
 <div class="projetos">
-<h2>Projetos</h2>
+<h2>Projetos/Trabalhos</h2>
 
 - <a href="https://www.buzoli.com.br/">Site de vendas de ingresso com integração com a Fintech Pixapay para pagamentos no Pix - Buzoli</a>
 - <a href="https://esi-sem-fronteiras-mexico.vercel.app/">Site com informações sobre o México</a>
