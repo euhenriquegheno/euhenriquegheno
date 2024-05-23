@@ -37,10 +37,10 @@
 <div class="projetos">
 <h2>Projetos</h2>
 
-- <a href="https://www.buzoli.com.br/">Buzoli</a>
+- <a href="https://www.buzoli.com.br/">Site de vendas de ingresso com integração com a Fintech Pixapay para pagamentos no Pix - Buzoli</a>
 - <a href="https://esi-sem-fronteiras-mexico.vercel.app/">Site com informações sobre o México</a>
-- <a href="https://minha-mochila.vercel.app/">Minha Mochila</a>
-- <a href="https://github.com/euhenriquegheno/GeradorQrCode">Gerado de QRCODE</a>
+- <a href="https://minha-mochila.vercel.app/">Trabalho Alura - Minha Mochila</a>
+- <a href="https://github.com/euhenriquegheno/GeradorQrCode">Gerado de QRCODE sem tempo de expiração</a>
 - <a href="https://github.com/euhenriquegheno/ControleEntradaEvento">Controle de entrada para eventos(basico)</a>
 - <a href="https://github.com/euhenriquegheno/ControleDeContas">Controle de contas a receber e pagar</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
