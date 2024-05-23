@@ -9,12 +9,13 @@
     <ul>
       <li>
         <p> 
-           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;PASCAL
+           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;DELPHI (VCL/FIREMONKEY)
         </p>
       </li>
       <li>
         <p>
-          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">                     JAVASCRIPT
+          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          JAVASCRIPT
         </p>
       </li>
       <li>
@@ -44,6 +45,7 @@
 - <a href="https://github.com/euhenriquegheno/ControleDeContas">Controle de contas a receber e pagar</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 - <a href="https://cursos.alura.com.br/vitrinedev/henrique2004gheno">Minha Vitrine Alura</a>
+- <a href="https://github.com/euhenriquegheno/ComunicacaoFirestore4Delphi">Comunicação Firebase Firestore com Delphi</a>
 <div>
   
  <div class="contatos">
