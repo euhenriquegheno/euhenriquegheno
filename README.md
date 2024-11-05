@@ -4,12 +4,18 @@
 
 <br>
 <div class="inicio">
-  <p>🔭 Hoje trabalho com as linguagens e ferramentas citadas a baixo \/</p>
+  <h3>Linguagens e ferramentas</h3>
   <div style="display: inline_block;">
     <ul>
       <li>
         <p> 
            &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-P-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;DELPHI (VCL/FIREMONKEY)
+        </p>
+      </li>
+      <li>
+        <p>
+          <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+          JAVA
         </p>
       </li>
       <li>
@@ -32,6 +38,20 @@
       </li>
     </ul>  
   </div> 
+  <h3>Bancos de dados</h3>
+  <ul>
+      <li>
+        <p>
+          <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+          ORACLE
+        </p>
+      </li>
+      <li>
+        <p> 
+           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-F-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;FIREBIRD
+        </p>
+      </li>
+    </ul> 
 </div>
 
 <div class="projetos">
