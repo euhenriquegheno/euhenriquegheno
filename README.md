@@ -9,13 +9,19 @@
     <ul>
       <li>
         <p>
+          <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+          Kotlin
+        </p>
+      </li>
+      <li>
+        <p>
           <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
           Java
         </p>
       </li>
       <li>
         <p>
-          <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
+          <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
           Spring
         </p>
       </li>
@@ -35,12 +41,6 @@
         <p>
           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           CSS
-        </p>
-      </li>
-      <li>
-        <p>
-          <img align="center" alt="CSS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg">
-          Kotlin
         </p>
       </li>
     </ul>  
@@ -79,7 +79,7 @@
 - <a href="https://github.com/euhenriquegheno/ControleDeContas">Controle de contas a receber e pagar</a>
 - <a href="https://euhenriquegheno.github.io">Portfolio</a>
 - <a href="https://cursos.alura.com.br/vitrinedev/henrique2004gheno">Minha Vitrine Alura</a>
-- <a href="https://github.com/euhenriquegheno/ComunicacaoFirestore4Delphi">Comunicação Firebase Firestore com Delphi</a>
+- <a href="https://github.com/euhenriquegheno/ComunicacaoFirestore4Delphi">Comunicação Firebase Firestore</a>
 <div>
   
  <div class="contatos">
