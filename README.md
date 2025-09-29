@@ -10,13 +10,19 @@
       <li>
         <p>
           <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-          JAVA
+          Java
+        </p>
+      </li>
+      <li>
+        <p>
+          <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
+          Spring
         </p>
       </li>
       <li>
         <p>
           <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          JAVASCRIPT
+          JavaScript
         </p>
       </li>
       <li>
@@ -31,6 +37,12 @@
           CSS
         </p>
       </li>
+      <li>
+        <p>
+          <img align="center" alt="CSS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg">
+          Kotlin
+        </p>
+      </li>
     </ul>  
   </div> 
   <h3>Bancos de dados</h3>
@@ -38,19 +50,19 @@
       <li>
         <p>
           <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-          ORACLE
+          Oracle
         </p>
       </li>
       <li>
         <p> 
            <img align="center" alt="Firebird" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg">
-          FIREBIRD
+          Firebird
         </p>
       </li>
       <li>
         <p> 
            <img align="center" alt="Mongo DB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-          MONGO DB
+          MongoDB
         </p>
       </li>
     </ul> 
