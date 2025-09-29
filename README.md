@@ -43,7 +43,7 @@
       </li>
       <li>
         <p> 
-           <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebird/firebird-original.svg">
+           <img align="center" alt="Firebird" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebird/firebird-original.svg">
           FIREBIRD
         </p>
       </li>
