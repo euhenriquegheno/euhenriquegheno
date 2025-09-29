@@ -43,7 +43,8 @@
       </li>
       <li>
         <p> 
-           &nbsp;<img align="center" alt="Js" height="30" width="30" src="https://img.shields.io/badge/-F-e82e1b?style=for-the-badge&logoColor=white">&nbsp;&nbsp;&nbsp;FIREBIRD
+           <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebird/firebird-original.svg">
+          FIREBIRD
         </p>
       </li>
     </ul> 
